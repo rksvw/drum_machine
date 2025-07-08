@@ -31,3 +31,8 @@
     box-shadow: orange 3px 3px 5px;
   }
 }
+
+.active {
+  color: orange;
+  box-shadow: orange 3px 3px 5px;
+}
